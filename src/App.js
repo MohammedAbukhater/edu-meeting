@@ -57,7 +57,7 @@ function App() {
         <AnimatePresence mode="wait">
           <Routes location={location} key={location.key}>
             <Route
-              path="/edu-meeting"
+              path="/"
               element={<Home data={data} isPending={isPending} />}
             ></Route>
             <Route

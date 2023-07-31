@@ -45,7 +45,7 @@ const NavLinks = ({ Name, showed }) => {
           className={({ isActive }) => {
             return isActive ? "active" : "";
           }}
-          to="/edu-meeting"
+          to="/"
         >
           Home
         </NavLink>
@@ -84,7 +84,7 @@ const NavLinks = ({ Name, showed }) => {
         initial="hidden"
         animate="visible"
       >
-        <HashLink smooth to="/edu-meeting#courses">
+        <HashLink smooth to="/#courses">
           courses
         </HashLink>
       </motion.li>
@@ -95,7 +95,7 @@ const NavLinks = ({ Name, showed }) => {
         initial="hidden"
         animate="visible"
       >
-        <HashLink smooth to="/edu-meeting#contact-us">
+        <HashLink smooth to="/#contact-us">
           contact us
         </HashLink>
       </motion.li>
