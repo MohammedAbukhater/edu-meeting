@@ -52,16 +52,16 @@ const Landing = () => {
             <p>
               This is an edu meeting template provided by TemplateMo website.
               This is React 18 layout built by{" "}
-              <span style={{ color: "#ffc107" }}> Moneer A. Mizyed</span>. The
+              <span style={{ color: "#ffc107" }}> Mohammed Y. AbuKhater</span>. The
               video background is taken from Pexels website.
             </p>
             <a
               rule="button"
               href="#apply-now"
               className="main-button"
-              aria-label="jone us button"
+              aria-label="join us button"
             >
-              jone us now!
+              join us now!
             </a>
           </Box>
         </Box>

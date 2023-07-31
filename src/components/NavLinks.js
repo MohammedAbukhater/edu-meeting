@@ -73,7 +73,7 @@ const NavLinks = ({ Name, showed }) => {
         initial="hidden"
         animate="visible"
       >
-        <HashLink smooth to="edu-meeting/#apply-now">
+        <HashLink smooth to="/#apply-now">
           Apply now
         </HashLink>
       </motion.li>

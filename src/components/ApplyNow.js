@@ -7,12 +7,12 @@ const myData = [
   {
     title: "About Edu Meeting React Template",
     description:
-      "This React 18 verstion of this template was made by Moneer A. Mizyed. You can contact me via the email in the footer section. or Text me on WhatsApp +972598654780",
+      "This React 18 verstion of this template was made by Mohammed Y. AbuKhater. You can contact me via the email in the footer section. or Text me on WhatsApp +970598700383",
   },
   {
     title: "React 18 layout",
     description:
-      "This React 18 verstion of this template was made by Moneer A. Mizyed. You can contact me via the email in the footer section. or Text me on WhatsApp +972598654780",
+      "This React 18 verstion of this template was made by Mohammed Y. AbuKhater. You can contact me via the email in the footer section. or Text me on WhatsApp +970598700383",
   },
   {
     title: "Please tell your friends",
