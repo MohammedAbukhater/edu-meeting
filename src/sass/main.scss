@@ -1,0 +1,20 @@
+@use "global-rules";
+@use "./components/header";
+@use "./components/landing";
+@use "./components/landing-card";
+@use "./components/horizontal-bar";
+@use "./components/up-comming-meetings";
+@use "./components/apply-now";
+@use "./components/courses";
+@use "./components/uni-facts-section";
+@use "./components/contact-us";
+@use "./components/footer";
+@use "./components/page-landing";
+@use "./components/meeting-details-card";
+
+@media (max-width: 768px) {
+  * {
+    cursor: default !important;
+    background-attachment: unset !important;
+  }
+}
